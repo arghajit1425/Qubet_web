@@ -1,6 +1,0 @@
-{
-  "name": "Qubet Perfume",
-  "description": "The Essence of Elegance - Luxury perfume store & Royal Essence administration portal.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
